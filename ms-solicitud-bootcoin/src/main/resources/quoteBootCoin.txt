@@ -1,0 +1,2 @@
+{"data":{"amount":700,"payMode":"TRANSFERENCIA","accountNumber":"1992001451155"}}
+{"data":{"amount":100,"payMode":"YANKI","cellphone":"963528741"}}}
